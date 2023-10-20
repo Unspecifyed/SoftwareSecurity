@@ -1,4 +1,4 @@
-# SoftwareSecurity
+# SoftwareSecurity by Francis Cottrell-Eshaghi
 
 ## The client
     The client in this document is Artemis Financial. Artemis Financial had a software security issue that they wanted the developer, Francis Cottrell-Eshaghi, to address. The specific issue or requirement mentioned in this document is related to secure software practices and refactoring code to enhance security. The client wanted to ensure the security of their web application and protect critical financial and client data during data transfers. The document discusses various security practices and steps to address vulnerabilities within their software application to meet these requirements.
